@@ -1,4 +1,4 @@
-Live Demo: https://sk-dairy.firebaseapp.com/
+Live Demo: https://sk-diary.firebaseapp.com/
 
 ## Available Scripts
 

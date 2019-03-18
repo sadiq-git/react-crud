@@ -1,4 +1,4 @@
-Live Demo: https://crud-dairy.firebaseapp.com/
+Live Demo: https://sk-dairy.firebaseapp.com/
 
 ## Available Scripts
 
